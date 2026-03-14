@@ -3,7 +3,7 @@ This agent installs software in system using Ai
 # AI Installer Agent
 
 
-An **AI-powered ai-installer-agent** that automatically installs software and its dependencies using a local AI model.
+An **AI-powered installer-agent** that automatically installs software and its dependencies using a local AI model.
 
 Instead of manually searching installation commands, this tool acts like a **local ai-installer-agent engineer** that installs software for you.
 
